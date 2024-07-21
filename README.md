@@ -19,9 +19,9 @@ This script interfaces with the GDAX api to make trades on the same exchange. Cu
 - GDAX API Integration: Seamlessly interfaces with the GDAX API to execute trades and retrieve market data.
 
 # Prerequisites
-R and the necessary libraries (rgdax, mailR, stringi, curl, xts, TTR)
-GDAX (Coinbase Pro) account with API key, secret, and passphrase
-Configured email account for notifications
+- R and the necessary libraries (rgdax, mailR, stringi, curl, xts, TTR)
+- GDAX (Coinbase Pro) account with API key, secret, and passphrase
+- Configured email account for notifications
 
 # Setup
 - Clone the repository.
